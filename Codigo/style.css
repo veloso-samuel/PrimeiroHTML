@@ -9,12 +9,17 @@ body {
     margin: 5px;
 }
 
+#img_cabe {
+        border-radius: 50%
+}
+
 #title {
     font-size: 25px;
 }
 
 .subtitle {
     font-size: 25px;
+    text-decoration: underline;
 }
 
 .post_title{
